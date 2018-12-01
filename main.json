@@ -1,0 +1,53 @@
+{
+	"profile":{
+		"img":"pic.jpg",
+		"Name":"mounika",
+		"Designation":"student",
+		"Institution":"vignan",
+		"Address":"Guntur"
+	},
+	"Career":{
+		"Info":"To enter into a hard working and sincere profession, contributing to the success of an organization and at the same time enhance my knowledge and develop my communication and interpersonal skills."
+	},
+	"Education":[
+		{
+			"Degree":"BTECH",
+			"Institution":"Vignan",
+			"yearofpass":"2020"
+		},
+		{
+			"Degree":"Intermediate",
+			"Institution":"Sri Chaitanya",
+			"yearofpass":"2016"
+		},
+		{
+			"Degree":"S.S.c",
+			"Institution":"Pragathi Talent School",
+			"yearofpass":"2014"
+		}
+	],
+	"Languages":[
+		{
+			"Lang":"English"
+		},
+		{
+			"Lang":"Telugu"
+		}
+	],
+	"skills":[
+		{
+			"title":"platforms",
+			"content":"windows,linux"
+		},
+		{
+			"title":"programming languages",
+			"content":"c,c++,java,python,rp"
+		},
+		{
+			"title":"database",
+			"content":"mysql"
+		}
+
+	]
+
+}
